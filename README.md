@@ -8,7 +8,7 @@ This is a React + Redux Toolkit project simulating a real-time crypto tracker li
 
 ---
 
-## 🚀 Demo
+## Demo
 Note:- Image in assets Folder.
 (Screenshot 2025-05-08 150832.gif)
 
@@ -23,7 +23,7 @@ Note:- Image in assets Folder.
 -  Responsive layout for desktop and mobile.
 -  Live refresh every few seconds (mocked via simulation).
 
-## 🧱 Architecture
+##  Architecture
 - **Components**: CryptoTable, CryptoRow, Header, etc.
 - **State Management**: Redux store holds crypto data
 - **Data Flow**: Simulated socket → store → UI updates
